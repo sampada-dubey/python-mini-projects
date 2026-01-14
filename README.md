@@ -20,10 +20,10 @@ I am learning Python step-by-step and regularly adding new mini projects to impr
 
 | # | Project Name | Topic / Skills |
 |---|--------------|----------------|
-| 1 | 🏴‍☠️ Treasure Hunt Game | Conditionals, nested if-else |
-| 2 | ✊ Rock Paper Scissors | Random module, basic game logic |
-| 3 | 🔐 Password Generator | Random module, strings, loops |
-| 4 | 💸 Tip Calculator | Arithmetic, inputs, formatting |
+| 1 | 💸 Tip Calculator| Arithmetic, inputs, formatting |
+| 2 | 🏴‍☠️ Treasure Hunt Game | Conditionals, nested if-else |
+| 3 | ✊ Rock Paper Scissors | Random module, basic game logic |
+| 4 | 🔐 Password Generator | Random module, strings, loops |
 
 ---
 
