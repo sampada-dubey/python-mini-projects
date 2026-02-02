@@ -1,7 +1,8 @@
-# 🐍 Python Daily Mini Projects
+# 🐍100 Days of Code : Python
 
 This repository contains my **daily Python practice projects** and mini tasks.  
 I am learning Python step-by-step and regularly adding new mini projects to improve my logic, coding skills, and consistency.
+This is my journey of 100 Days of Code : Python
 
 ---
 
@@ -45,6 +46,15 @@ python-daily-mini-projects/
 │
 ├── Tip_Calculator/
 │   └── main.py
+|
+├── hangman/
+|  └── main.py
+|  └── hangman_art.py
+|  └── hangman_words.py
+|
+├── Caeser_Cipher/
+│   └── main.py
+|   └── art.py
 │
 └── README.md
 ```
