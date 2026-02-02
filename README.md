@@ -24,6 +24,8 @@ I am learning Python step-by-step and regularly adding new mini projects to impr
 | 2 | 🏴‍☠️ Treasure Hunt Game | Conditionals, nested if-else |
 | 3 | ✊ Rock Paper Scissors | Random module, basic game logic |
 | 4 | 🔐 Password Generator | Random module, strings, loops |
+| 5 | 🩻 Hangman | Random module, user-built module, loops |
+| 6 | 🔐 Caeser Cipher | Encryption - decryption (basic), strings, loops, inputs |
 
 ---
 
