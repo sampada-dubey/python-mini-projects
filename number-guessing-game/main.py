@@ -1,5 +1,5 @@
 from random import randint
-from art import logo
+from logo import logo
 
 
 EASY_LEVEL_TURNS = 10
