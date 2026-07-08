@@ -32,9 +32,9 @@ This repository includes:
 | 4 | [🔐 Password Generator](./Password_generator)     | Random module, strings, loops, lists                      |
 | 5 | [🩻 Hangman](./hangman)                           | Loops, lists, modules, game logic                         |
 | 6 | [🔏 Caesar Cipher](./Caeser_cipher)               | Functions, strings, loops, encryption/decryption          |
-| 7 | [🃏 Blackjack](./Blackjack)                       | Functions, lists, conditionals, game logic, random module |
-| 8 | [🔢 Number Guessing Game](./Number_guessing)      | Functions, loops, conditionals, random module             |
-| 9 | [☕ Coffee Machine with OOP](./Coffee_machine_OOP) | OOP, classes, objects, methods, modular programming       |
+| 7 | [🃏 Blackjack](./blackjack)                       | Functions, lists, conditionals, game logic, random module |
+| 8 | [🔢 Number Guessing Game](./number-guessing-game)      | Functions, loops, conditionals, random module             |
+| 9 | [☕ Coffee Machine with OOP](./Coffee-Machine-with-OOP) | OOP, classes, objects, methods, modular programming       |
 
 > 🚧 More projects will be added as I continue my Python learning journey.
 
